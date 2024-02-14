@@ -85,4 +85,4 @@ I hope this post has helped you understand the difference between data scientist
 
 ## Tags
 
-``Data``, ``Data Management``, ``Data Security``, ``Data Architecture``,``Data Science``, ``Data Analysis``, ``Data Engineering``, ``Databases``, ``Database Management``, ``Database Administration``, ``Databases Security``, ``Datasets``, ``Excel``, ``PowerBI``, ``SQL``, ``Python``, ``Tableu``, ``R``
+``Data``, ``Data Management``, ``Data Security``, ``Data Architecture``,``Data Science``, ``Data Analysis``, ``Data Engineering``, ``Databases``, ``Database Management``, ``Database Administration``, ``Database Security``, ``Datasets``, ``Excel``, ``PowerBI``, ``SQL``, ``Python``, ``Tableau``, ``R``
