@@ -1,9 +1,5 @@
 # Data Management
 
-Data Science, Data Analysis, Data Engineering resources, tools and datasets.
-
-# Data Manager Roadmap
-
 A Data Management approach through Data Science, Data Analysis and Data Engineering experience.
 
 ## Introduction
