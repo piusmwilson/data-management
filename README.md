@@ -9,6 +9,16 @@ Each of these roles is crucial to data management depending on the industry, the
 
 We'll understand each role better and what sets them apart.
 
+## What is Data?!
+
+### What is Information?!
+
+### When does Data become Information?!
+
+### What is a Data Structure?!
+
+### Types of Data Structures
+
 ### Who is a data scientist?
 
 A data scientist is someone who uses their knowledge of statistics, machine learning, and programming to extract meaning from data. They use their skills to solve complex problems, identify trends, and make predictions.
