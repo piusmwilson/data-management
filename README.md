@@ -19,6 +19,10 @@ We'll understand each role better and what sets them apart.
 
 ### Types of Data Structures
 
+### Linear & Non-Linear Data Structures.
+* Linear Data Structures
+* Non-Linear Data Structures
+
 ### Who is a data scientist?
 
 A data scientist is someone who uses their knowledge of statistics, machine learning, and programming to extract meaning from data. They use their skills to solve complex problems, identify trends, and make predictions.
